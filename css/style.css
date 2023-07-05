@@ -1,0 +1,25 @@
+.s1t1{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 100px;
+}
+#s1p1{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 50px;
+}
+.grad{
+    background-color: #63A8F2;
+    padding-bottom: 250px;
+    padding-top: 100px;
+}
+.boldit{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.works{
+    text-align: center;
+    font-family: 'Nanum Pen Script', cursive;
+}
+.grad1{
+    background-color: #63A8F2;
+    padding-bottom: 20px;
+}
